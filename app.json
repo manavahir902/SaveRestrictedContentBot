@@ -13,23 +13,23 @@
     "env": {
         "API_HASH": {
             "description": "aea0e5af4198ac18ce7c7c0feb9663cf",
-            "value": ""
+            "value": "aea0e5af4198ac18ce7c7c0feb9663cf"
         },
         "API_ID": {
             "description": "25560475",
-            "value": ""
+            "value": "25560475"
         },
         "BOT_TOKEN": {
             "description": "5905688960:AAGy5i2zHA6gD2n5kGqmQcoZ9FIRv4vPRC0",
-            "value": ""
+            "value": "5905688960:AAGy5i2zHA6gD2n5kGqmQcoZ9FIRv4vPRC0"
         },
         "SESSION": {
             "description": "BQBbXDN0JtLNgaxCpJYo0vqFImuilt5tRNuLXznjUjMvY4H60zj-fc8wqVw0aaQJc84Rjlt6Uzq6EV0PT9cTYezE5pDMpYpnw1oQb0IAoU63iL8mFVN8ktdT2m2LhBGFZhD1pzxu-iF96JQ72SjOj5zhvORTKmh0ao-r3O7_F6bvjunVhjoUpfil4UaR3jp9MxImgrvCU2mNP6YotnVEY5vsIKdehEZJXL-jct3UF9ROhbNwSL5IOP4F7y4bH973jYTZrvk0MhYPymhv1qFIr7JumZfWe0sLtrGJYaiKsrWBGQTPBGQAX8FsoUWl9mb014SyNqoDxlOXaKdXfKhRk4TWV2F43QA",
-            "value": ""
+            "value": "BQBbXDN0JtLNgaxCpJYo0vqFImuilt5tRNuLXznjUjMvY4H60zj-fc8wqVw0aaQJc84Rjlt6Uzq6EV0PT9cTYezE5pDMpYpnw1oQb0IAoU63iL8mFVN8ktdT2m2LhBGFZhD1pzxu-iF96JQ72SjOj5zhvORTKmh0ao-r3O7_F6bvjunVhjoUpfil4UaR3jp9MxImgrvCU2mNP6YotnVEY5vsIKdehEZJXL-jct3UF9ROhbNwSL5IOP4F7y4bH973jYTZrvk0MhYPymhv1qFIr7JumZfWe0sLtrGJYaiKsrWBGQTPBGQAX8FsoUWl9mb014SyNqoDxlOXaKdXfKhRk4TWV2F43QA"
         },
         "AUTH": {
             "description": "1466005725",
-            "value": ""
+            "value": "1466005725"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
